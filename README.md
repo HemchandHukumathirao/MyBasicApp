@@ -1,2 +1,1 @@
-	This is my basic repository for practicing git
-	
+Just a basic repository for practice	
